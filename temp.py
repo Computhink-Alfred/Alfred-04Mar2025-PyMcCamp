@@ -1,9 +1,9 @@
 # Task 1: Hello World
 
-Step 1: Go to “day1.py”
-Step 2: Use the line print(“hello from Computhink”) to print something
-Step 3: Run the program by clicking on the “Run” button.
-You can replace the sentence inside the print() with anything!
+# Step 1: Go to “day1.py”
+# Step 2: Use the line print(“hello from Computhink”) to print something
+# Step 3: Run the program by clicking on the “Run” button.
+# You can replace the sentence inside the print() with anything!
 
 ###########################################################
 
